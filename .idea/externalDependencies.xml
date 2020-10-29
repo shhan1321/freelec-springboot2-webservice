@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="JUnit" />
+    <plugin id="com.intellij.STAintellij.intellij_plugin" />
+    <plugin id="com.intellij.java" />
+    <plugin id="com.intellij.java.ide" />
+    <plugin id="cucumber-java" />
+    <plugin id="gherkin" />
+    <plugin id="org.jetbrains.android" />
+    <plugin id="org.jetbrains.idea.maven" />
+    <plugin id="org.jetbrains.plugins.gradle" />
+    <plugin id="org.jetbrains.plugins.gradle.maven" />
+  </component>
+</project>
